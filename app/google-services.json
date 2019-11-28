@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "692499586351",
+    "firebase_url": "https://mohalla-ed17f.firebaseio.com",
+    "project_id": "mohalla-ed17f",
+    "storage_bucket": "mohalla-ed17f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692499586351:android:d98d595b7cce664dbf15da",
+        "android_client_info": {
+          "package_name": "com.owais.mohalla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692499586351-qs9515qoailssv51cp7r7dg9iqr5ildv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.owais.mohalla",
+            "certificate_hash": "8791f609e7fdcbdd0dc2a934c0e8db010c8063ba"
+          }
+        },
+        {
+          "client_id": "692499586351-7pg8tgevep6clsoeskn4v2i1b8fd15pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZQ9XCDEFkFhTtveiFHArCIKtyR1X9mh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692499586351-7pg8tgevep6clsoeskn4v2i1b8fd15pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
